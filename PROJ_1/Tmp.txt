@@ -1,0 +1,5 @@
+Sortowanie 10 000 skończone czas: 1.29741e+11
+Sortowanie 20 000 skończone czas: 4.9873e+11
+Sortowanie 40 000 skończone czas: 1.37026e+12
+Sortowanie 80 000 skończone czas: 5.48469e+12
+Sortowanie skończone całkowity czas: 7.48343e+12
