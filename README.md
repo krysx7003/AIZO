@@ -18,3 +18,6 @@
  * Porównanie czasu wykonania algorytmów
  * Implementacja struktur potrzebnych do wykonania algorytmu 
  * Dane początkowe są losowe
+
+## Obsługa
+1. Pliki z kodem źródłowym można skompilować przy użyciu dowolnego kompilatora c++
